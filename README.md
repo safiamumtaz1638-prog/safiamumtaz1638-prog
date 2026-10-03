@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Safia Mumtaz 👋
 
-<!--
-**safiamumtaz1638-prog/safiamumtaz1638-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Aspiring Machine Learning Engineer
 
-Here are some ideas to get you started:
+I'm a BS Artificial Intelligence student interested in Machine Learning, Data Science, and practical AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building projects and turning ML concepts into working applications.
+
+🛠️ Technologies & Tools
+
+- Languages: Python, JavaScript, HTML, CSS
+- Machine Learning: Scikit-learn, Regression, Classification, Model Evaluation
+- Data Science: NumPy, Pandas, Matplotlib
+- Web Development: Flask
+- Deployment & Tools: Docker, Git, GitHub
+- Currently Learning: Machine Learning Engineering & AI
+
+🚀 Featured Project
+
+🏠 House Price Prediction
+
+A machine-learning regression project that predicts house prices using selected housing features.
+
+Tech: Python • Pandas • Scikit-learn • Flask • Docker
+
+🔗 "View Project" (https://github.com/safiamumtaz1638-prog/house-price-prediction)
+
+📚 Currently Working On
+
+- Improving my Machine Learning skills
+- Building practical AI/ML projects
+- Learning ML deployment and engineering practices
+- Exploring LLM and AI research
+
+🎯 Career Goal
+
+To become a Machine Learning Engineer and build useful, reliable AI solutions.
+
+📫 Connect With Me
+
+- 💼 "LinkedIn" (https://www.linkedin.com/in/safia-mumtaz-067919356)
+- 🐙 "GitHub" (https://github.com/safiamumtaz1638-prog)
